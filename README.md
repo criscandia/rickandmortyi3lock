@@ -14,7 +14,7 @@ I3lock
 
 #Example
 
-https://user-images.githubusercontent.com/9044251/134390945-ceed4e8a-ce38-4cfd-b4ba-1f157e805f05.png
+![alt text] (https://user-images.githubusercontent.com/9044251/134390945-ceed4e8a-ce38-4cfd-b4ba-1f157e805f05.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
