@@ -6,7 +6,7 @@ Screen Lock Script for i3lock
 Add to i3 config:
 bindsym $super+l exec ~/./locked.sh
 
-# Packages needed
+## Packages needed
 Maim
 ImageMagick
 I3wm
