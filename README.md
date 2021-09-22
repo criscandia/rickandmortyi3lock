@@ -9,6 +9,7 @@ bindsym $super+l exec ~/./locked.sh
 # Packages needed
 Maim
 ImageMagick
+I3wm
 I3lock
 
 ## Contributing
